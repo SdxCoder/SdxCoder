@@ -24,7 +24,7 @@ expand my professional expertise.
 - **Databases:** MongoDB, PostgreSQL, SQlite
 - **Tools:** Docker, Git, Webpack, VSCode, CodeMagic
 
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=SdxCoder)]
+![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=SdxCoder)
 
 <!-- ### 📈 GitHub Stats
 ![John's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SdxCoder&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical) -->
