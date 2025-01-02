@@ -10,14 +10,13 @@ expand my professional expertise.
 - 🤔 I’m looking for help with **Cloud Engineering**
 - 💬 Ask me about **Flutter, Nest.js, and Express.js**
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love hiking and playing chess!
+- ⚡ Fun fact: I love hiking and playing video games!
 
 ### Languages used in my public repos
-<img width="" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SdxCode&layout=compact&hide_title=1&card_width=300" alt="Most Used Languages" />
-</div>
+<img width="" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SdxCoder&layout=compact&hide_title=1&card_width=300" alt="Most Used Languages" />
+
 
 ### 🛠️ Technologies & Tools
-
 - **Languages:** Dart, JavaScript, TypeScript
 - **Frontend:** Flutter, React, HTML/CSS, Tailwind
 - **Backend:** Node.js, Express, Nest
@@ -25,9 +24,6 @@ expand my professional expertise.
 - **Tools:** Docker, Git, Webpack, VSCode, CodeMagic
 
 ![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=SdxCoder)
-
-<!-- ### 📈 GitHub Stats
-![John's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SdxCoder&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical) -->
 
 ### 📬 Connect with Me
 
