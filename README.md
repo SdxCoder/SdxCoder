@@ -28,7 +28,7 @@ expand my professional expertise.
 
 
 ### 📈 GitHub Stats
-![John's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JohnDoe&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
+![John's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SdxCoder&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
 
 ### 📬 Connect with Me
 
