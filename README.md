@@ -28,16 +28,3 @@ expand my professional expertise.
 ### 📬 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/saad-ahmed-01/)
-
-<!-- 
-## 🔧 Top Projects
-
-- **[Project X](https://github.com/JohnDoe/project-x)**: A full-stack app that helps users manage tasks.
-- **[Project Y](https://github.com/JohnDoe/project-y)**: An AI-based tool for sentiment analysis.
-
-
-
-## 🚀 GitHub Achievements
-
-- **Stars**: ⭐ 250+
-- **Contributions**: 🔥 1000+ -->
