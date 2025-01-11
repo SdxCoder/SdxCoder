@@ -6,7 +6,7 @@ developing software applications, and skilled at leading teams. Eager to enhance
 expand my professional expertise.
 
 - 🔭 I’m currently working on **[Al Habib Pharmacy](https://alhabibpharmacy.com/)**
-- 🌱 I’m currently learning **Nest.js and React**
+- 🌱 I’m currently learning **Generative AI, Nest.js and React**
 - 💬 Ask me about **Flutter, Nest.js, and Express.js**
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love hiking and playing video games!
